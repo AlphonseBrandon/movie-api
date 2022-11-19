@@ -12,12 +12,11 @@ APIs make a great deal in the datascience industries today, and being able to re
 
 Build a RESTFUL API that serves my NLP model and recommendation engine as a microservice to my website
 
+![1668892570373](image/README/1668892570373.png)
 
 ### Methods Used
 
 ---
-
-
 
 * Object oriented programming
 * RESTFUL API
@@ -25,12 +24,9 @@ Build a RESTFUL API that serves my NLP model and recommendation engine as a micr
 * Postman
 * Unit test
 
-
 ### Technologies
 
 ---
-
-
 
 * Python
 * Flask
@@ -47,8 +43,6 @@ This project is a full implementation of a flask REST that accepts the movie tit
 
 ---
 
-
-
 1. Clone this repository
 2. Open the folder in a code editor of your choice
 3. Create a python virtual environment
@@ -57,8 +51,6 @@ This project is a full implementation of a flask REST that accepts the movie tit
 ### Folder Description
 
 ---
-
-
 
 * Install the requirements.txt file
 * conf: contains the bash script to install to setup the project if you are using mac, linux or windows-wsl
