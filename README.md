@@ -8,9 +8,16 @@ APIs make a great deal in the datascience industries today, and being able to re
 
 ### Objectivie
 
+---
+
 Build a RESTFUL API that serves my NLP model and recommendation engine as a microservice to my website
 
+
 ### Methods Used
+
+---
+
+
 
 * Object oriented programming
 * RESTFUL API
@@ -18,7 +25,12 @@ Build a RESTFUL API that serves my NLP model and recommendation engine as a micr
 * Postman
 * Unit test
 
+
 ### Technologies
+
+---
+
+
 
 * Python
 * Flask
@@ -27,9 +39,15 @@ Build a RESTFUL API that serves my NLP model and recommendation engine as a micr
 
 ### Description
 
+---
+
 This project is a full implementation of a flask REST that accepts the movie title of a movie and returns in JSON movie properties of the searched movie such as the released date, the cast, comments about the movie etc. All of this metadata will be pulled through an api call to the TMDB API with the comments beign scrapped from the TMDB website and passed into the nlp model which classifies it as either 'Good' or 'Bad' review
 
 ### Geting Started
+
+---
+
+
 
 1. Clone this repository
 2. Open the folder in a code editor of your choice
@@ -37,6 +55,10 @@ This project is a full implementation of a flask REST that accepts the movie tit
 4. Install the requirements.txt file
 
 ### Folder Description
+
+---
+
+
 
 * Install the requirements.txt file
 * conf: contains the bash script to install to setup the project if you are using mac, linux or windows-wsl
