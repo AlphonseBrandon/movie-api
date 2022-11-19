@@ -41,7 +41,7 @@ Build a RESTFUL API that serves my NLP model and recommendation engine as a micr
 
 ---
 
-This project is a full implementation of a flask REST that accepts the movie title of a movie and returns in JSON movie properties of the searched movie such as the released date, the cast, comments about the movie etc. All of this metadata will be pulled through an api call to the TMDB API with the comments beign scrapped from the TMDB website and passed into the nlp model which classifies it as either 'Good' or 'Bad' review
+This project is a full implementation of a flask REST that accepts the movie title of a movie and returns in JSON movie properties of the searched movie such as the released date, the cast, comments about the movie etc. All of this metadata will be pulled through an api call to the TMDB API with the comments being scrapped from the TMDB website and passed into the nlp model which classifies it as either 'Good' or 'Bad' review
 
 ### Geting Started
 
